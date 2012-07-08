@@ -1,0 +1,4 @@
+logboard
+========
+
+Log Aggregation Dashboard
